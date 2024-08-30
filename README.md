@@ -28,7 +28,7 @@ The Drum Kit is an interactive web application that allows users to play differe
 1. **Clone the Repository:** Start by cloning the project to your local machine.
 
     ```bash
-    git clone https://github.com/username/drum-kit.git
+    git clone https://github.com/GavriloaiaMircea/Drum-Kit.git
     cd drum-kit
     ```
 
